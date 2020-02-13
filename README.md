@@ -4,6 +4,10 @@
 讓你更方便的使用CkipTagger
 > 這只是一個讓你方便使用CkipTagger的接口，所有斷詞功能與成果均與本人無關，任何接口以外的問題請至[CkipTagger](https://github.com/ckiplab/ckiptagger)尋找答案與幫助
 
+大部分程式架構的參考來源 : [p208p2002/interface-for-ckiptagger](https://github.com/p208p2002/interface-for-ckiptagger)
+
+貢獻 : 增加了[p208p2002/interface-for-ckiptagger/ckip_tagger.py](https://github.com/p208p2002/interface-for-ckiptagger/blob/master/ckip_tagger.py)中可以獲得實體的功能(_get_entity)。
+
 ## Usage
 ### Installation
 - 安裝ckip-tagger
